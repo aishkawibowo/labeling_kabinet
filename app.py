@@ -5,9 +5,9 @@ import json
 # ==== Konfigurasi Aspek & Sentimen ====
 ASPECTS = [
     "Kebijakan Pemerintah",
-    "Kompetensi", 
-    "Responsivitas",
-    "Representasi",
+    "Kompetensi Menteri", 
+    "Fleksibilitas",
+    "Keterwakilan",
     "Transparansi"
 ]
 
@@ -111,7 +111,6 @@ aspek_colors = {
     "Transparansi": "🔴"
 }
 badge = aspek_colors.get(aspek_utama, "⚪")
-st.markdown(f"**Aspek Utama Dataset:** {badge} **{aspek_utama}**")
 
 st.info(f" **Tweet:** {current_tweet}")
 
