@@ -1,4 +1,3 @@
-import streamlit as st
 import pandas as pd
 import json
 
@@ -79,7 +78,6 @@ except FileNotFoundError:
 
 # ==== Main App ====
 st.title("🏛️ Anotator Sentimen Kabinet Merah Putih")
-st.subheader("Analisis Sentimen Multi-Aspek - 5 Aspek x 100 Data")
 
 # Progress indicator
 progress = len(st.session_state.completed_tweets) / len(df)
