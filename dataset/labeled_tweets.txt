@@ -1,0 +1,981 @@
+$T$ kabinet merah putih mendukung kebijakan perlindungan hak asasi manusia yang sejalan dengan prinsipprinsip keadilan
+kinerja kabinet
+positive
+$T$ istana pastikan pejabat kabinet merah putih pakai mobil dinas maung pindad
+figur mentri
+negative
+$T$ rakyat bersuara malam ini kabinet merah putih bulan siap diganti live di inews
+kinerja kabinet
+negative
+$T$ yang lain juga dong tolong itu jajaran nama di kabinet merah putih apa gak mau sekalian aja
+kinerja kabinet
+negative
+$T$ kabinet merah putih memastikan setiap kebijakan pembangunan memperhatikan keseimbangan ekologi
+kinerja kabinet
+positive
+$T$ sektor kelautan makin kuat apresiasi buat kabinet merah putih
+kinerja kabinet
+positive
+$T$ kabinet merah putih memiliki banyak orangorang profesional dibanding orang parpol
+kinerja kabinet
+positive
+$T$ utk kabinet merah putih wajib di bekali menjadi kabinet yg berjiwa nasionalisme patriotisme yg berpihak pd rakyat dan tdk menjadi boneka naga oknum naga hanya menggusur tanah rakyat utk keuntungan kapitalis dlm pik dan pik dan tempat lainnya
+kinerja kabinet
+positive
+$T$ kabinet merah putih memfasilitasi pengembangan startup lokal yang berpotensi mendunia
+kinerja kabinet
+positive
+$T$ usai lulus akmil lembah tidar semangat kabinet merah putih makin berkobar duduk sama rendah berdiri sama tinggi tak ada beda lagi mana koalisi amp
+kinerja kabinet
+positive
+$T$ menyala sekali kabinet merah putih ini semoga selalu bersama rakyat kren kren
+kinerja kabinet
+negative
+$T$ di bawah kabinet merah putih pertumbuhan industri lokal semakin pesat
+kinerja kabinet
+positive
+$T$ di akmil magelang kabinet merah putih memperkuat persatuan melalui berbagai kegiatan inspiratif dengan dukungan dan arahan langsung dari presiden kami semakin siap membawa indonesia menuju visi besar bersamasama kita bentuk pilar kemajuan indonesia
+kinerja kabinet
+positive
+$T$ wahhh kerenn sekali semangaaat terus untuk kabinet merah putih bentuk pilar kemajuan indonesia
+kinerja kabinet
+positive
+$T$ kami mendukung penuh kabinet merah putih dalam memperkuat sistem kesehatan dan pendidikan
+kinerja kabinet
+positive
+$T$ kabinet merah putih memperkuat kebijakan yang mendukung ketahanan energi nasional
+kinerja kabinet
+positive
+$T$ haramkan korupsi di bumi garuda pendadaran menteri di lembah tidar oleh presiden prabowo subianto menghentak jiwa nasionalisme kabinet merah putih gilas koruptor menteri perumahan dan kawasan permukiman maruarar sirait gercep meminimalisasi celah korupsi
+figur mentri
+negative
+$T$ ga yakin kalo kabinet merah putih bisa menuhin area perubahan dalam reformasi birokrasi di indonesia
+kinerja kabinet
+negative
+$T$ kabinet merah putih yg beelum hari kok kebijakakan nya bikin tambah susah rakyat aja ya
+kinerja kabinet
+negative
+$T$ kabinet merah putih fokus pada program peningkatan literasi digital untuk memperkuat sdm yang siap bersaing global
+kinerja kabinet
+positive
+$T$ kabinet merah putih bikin energi terbarukan jadi fokus hebat
+kinerja kabinet
+positive
+$T$ kabinet merah putih bekerja nyata banyak hasil yang bisa dirasakan langsung
+kinerja kabinet
+positive
+$T$ kabinet merah putih mendorong pertumbuhan ekonomi kreatif yang memberikan peluang kerja baru bagi kaum muda
+kinerja kabinet
+positive
+$T$ dua pekan kabinet zeken merah putih belum ada seorang pun yg ke ikn bener atau saya ga tahu
+kinerja kabinet
+negative
+$T$ program hari menpan rb bereskan masalah pns dan honorer di kabinet merah putih
+program kerja
+positive
+$T$ di bawah presiden prabowo kabinet merah putih mendorong diplomasi ekonomi untuk memperkuat hubungan dagang internasional
+kinerja kabinet
+positive
+$T$ prestasi kabinet merah putih
+kinerja kabinet
+positive
+$T$ kabinet merah putih berhasil mendorong partisipasi masyarakat dalam pembangunan
+kinerja kabinet
+positive
+$T$ presiden prabowo subianto disebut turut memberi pengarahan soal ibu kota nusantara ikn saat retret kabinet merah putih di magelang jawa tengah dan sudah memiliki rencana akan merampungkan pembangunan ikn dalam tahun
+struktur kabinet
+positive
+$T$ kabinet merah putih memperkuat kebijakan untuk mengatasi perubahan iklim dengan berfokus pada ekonomi hijau
+kinerja kabinet
+positive
+$T$ kabinet merah putih serius dalam penanganan isuisu sosial banyak yang terbantu
+kinerja kabinet
+positive
+$T$ isunya masuk kabinet merah putih wamen kemenpora
+kinerja kabinet
+negative
+$T$ kabinet merah putih bekerja keras untuk meningkatkan kualitas hidup masyarakat perkotaan dan pedesaan
+kinerja kabinet
+positive
+$T$ kembali mengenal kementerian imigrasi dan pemasyarakatan yang dibentuk berdasarkan perpres nomor tahun sebagai bagian dari restrukturisasi dalam kabinet merah putih yuk simak informasi diatas dan jangan lupa kunjungi
+figur mentri
+neutral
+$T$ kabinet merah putih menunjukkan komitmen tinggi dalam memperkuat sektor pariwisata nasional
+kinerja kabinet
+positive
+$T$ meski tak bergabung dalam kabinet merah putih pdi perjuangan paling banyak memimpin komisi di dpr bagibagi kekuasaan tanda tak ada oposisi
+kinerja kabinet
+negative
+$T$ di bawah presiden prabowo kabinet merah putih mendorong keterlibatan generasi muda dalam pengambilan keputusan nasional
+kinerja kabinet
+positive
+$T$ kabinet merah putih mendukung program ketahanan pangan melalui modernisasi sistem pertanian
+kinerja kabinet
+positive
+$T$ selamat bekerja kabinet merah putih
+kinerja kabinet
+positive
+$T$ kabinet merah putih bikin sektor pendidikan kita makin maju
+kinerja kabinet
+positive
+$T$ sepakat bahwa ganti pejabat yg bisa menghambat jalannya pemerintahan kabinet merah putih
+figur mentri
+negative
+$T$ kebijakan perlindungan sosial semakin merata banyak yang terbantu terima kasih kabinet merah putih
+program kerja
+positive
+$T$ wah keren banget untuk retreat yang dilakukan oleh kabinet merah putih semoga kedepannya bisa menjadi pilar kemajuan indonesia
+kinerja kabinet
+positive
+$T$ kabinet merah putih mendukung pengembangan startup teknologi yang berpotensi memperkuat ekonomi digital indonesia
+kinerja kabinet
+positive
+$T$ untuk fokus mengentaskan kemiskinan menekan angka pengangguran melalui arahan jelas dan kebijakan yang terukur bagi para di kabinet merah putih serta mengajak seluruh elemen masyarakat untuk melangkah bersama
+program kerja
+positive
+$T$ kabinet merah putih yang menjadi punggawa dalam menjalankan negara di pemerintahan yang baru kementerian hukum dan hak asasi manusia kemenkumham resmi bertransformasi menjadi beberapa kementerian
+kinerja kabinet
+negative
+$T$ program kesehatan makin lengkap rakyat makin diperhatikan mantap kabinet merah putih
+program kerja
+positive
+$T$ kabinet merah putih memperkuat peran indonesia di dalam kerjasama regional asean
+kinerja kabinet
+positive
+$T$ kabinet merah putih berfokus pada pembangunan yang berkeadilan
+kinerja kabinet
+positive
+$T$ semoga kabinet merah putih terus memperjuangkan keadilan
+kinerja kabinet
+positive
+$T$ semoga program kerja kabinet merah putih dapat berjalan dengan baik sebagai pilar kemajuan indonesia
+program kerja
+positive
+$T$ kabinet merah putih terus mendorong inklusi keuangan bagi masyarakat pedesaan
+kinerja kabinet
+positive
+$T$ kabinet merah putih mendukung perkembangan ekonomi digital yang inklusif
+kinerja kabinet
+positive
+$T$ kabinet merah putih mengikuti retreat di akademi magelang jawa tengah selama tiga hari
+kinerja kabinet
+positive
+$T$ kabinet merah putih berkomitmen memperkuat ketahanan energi dengan memprioritaskan energi terbarukan
+kinerja kabinet
+positive
+$T$ semoga semua program kerja kabinet merah putih dapat terlaksanakan sesuai rencana karena akan menjadi pilar kemajuan indonesia
+program kerja
+positive
+$T$ kabinet merah putih bekerja keras menjaga keadilan dan kestabilan sosial
+kinerja kabinet
+positive
+$T$ kabinet merah putih berkomitmen pada transparansi dan kejujuran dalam pengelolaan anggaran negara
+kinerja kabinet
+positive
+$T$ mayoritas menteri di kabinet merah putih emang ga sesuai kompetensinya yg penting semua dapat jabatan hati senang kinerja belakangan
+figur mentri
+negative
+$T$ kabinet merah putih menunjukkan dedikasi kuat untuk memperjuangkan kesejahteraan rakyat indonesia
+kinerja kabinet
+positive
+$T$ kabinet merah putih mencerminkan semangat persatuan dan kebhinekaan dalam menjalankan pemerintahan yang inklusif
+kinerja kabinet
+positive
+$T$ kabinet merah putih berupaya memperkuat pertumbuhan ekonomi melalui peningkatan ekspor komoditas unggulan
+kinerja kabinet
+positive
+$T$ daftar menteri terbaik kabinet merah putih budi gunawan tempati posisi teratas
+figur mentri
+positive
+$T$ kami optimis kabinet merah putih akan membawa perubahan nyata di sektor pendidikan dan kesehatan
+kinerja kabinet
+positive
+$T$ kabinet merah putih memperkuat programprogram pemberdayaan sosial bagi masyarakat kurang mampu
+program kerja
+positive
+$T$ kabinet merah putih memperkuat kebijakan bantuan sosial yang transparan dan akuntabel untuk meningkatkan kepercayaan publik
+kinerja kabinet
+positive
+$T$ retreat kabinet merah putih berlangsung dari kamis hingga minggu
+kinerja kabinet
+positive
+$T$ di bawah presiden prabowo kabinet merah putih memperkuat kerjasama internasional di bidang pendidikan dan riset
+kinerja kabinet
+positive
+$T$ kami percaya kabinet merah putih akan membawa kemajuan ekonomi yang lebih merata di seluruh indonesia
+kinerja kabinet
+positive
+$T$ kabinet merah putih memastikan bahwa setiap proyek pembangunan memperhatikan aspek kelestarian lingkungan
+kinerja kabinet
+positive
+$T$ di bawah presiden prabowo kabinet merah putih berkomitmen memperkuat kedaulatan pangan melalui kebijakan yang mendukung petani
+kinerja kabinet
+positive
+$T$ jumlah menteri yang dilantik semakin banyak apakah koordinasi akan berjalan dengan baik di kabinet merah putih nonton welcome kabinet merah putih selengkapnya di
+figur mentri
+negative
+$T$ suka banget sama programprogram yang dibawa kabinet merah putih kerja nyata yang berdampak positif buat masyarakat
+program kerja
+positive
+$T$ kabinet merah putih mengedepankan transparansi dan akuntabilitas dalam setiap kebijakan publik
+kinerja kabinet
+positive
+$T$ retreat kabinet merah putih selesai dilakukan sehari usai retreat para menteri langsung beraksi apa saja yang mereka lakukan
+figur mentri
+positive
+$T$ tidak twrasa sudah hari kabinet merah putih berjalan untuk yang belum tau asta cita itu apa pilar kemajuan indonesia
+kinerja kabinet
+negative
+$T$ kabinet merah putih berfokus pada pengembangan sektor industri yang berorientasi ekspor
+kinerja kabinet
+positive
+$T$ mari kita kawalbersihkan kabinet merah putih dari eks koruptor dan cikal bakal koruptor koruptor
+kinerja kabinet
+negative
+$T$ semangat menegakkan pilar kemajuan indonesia kabinet merah putih indonesia lebih baik
+kinerja kabinet
+positive
+$T$ kabinet merah putih memberikan perhatian pada pembangunan daerah terpencil dan terluar
+kinerja kabinet
+positive
+$T$ salut dengan kabinet merah putih yang begitu bersemangat dalam menyiapkan masa depan bangsa retreat di akmil magelang ini bukan sekadar kegiatan tapi simbol kekompakan dan tekad bersama menuju indonesia emas
+kinerja kabinet
+positive
+$T$ kabinet merah putih memfasilitasi peningkatan ekspor produkproduk dalam negeri
+kinerja kabinet
+positive
+$T$ kabinet merah putih serta mengajak seluruh elemen masyarakat untuk melangkah bersama
+kinerja kabinet
+positive
+$T$ projo ramaikan kabinet merah putih aja bapak bapak
+kinerja kabinet
+negative
+$T$ kabinet merah putih makin mendengarkan suara rakyat rakyat senang negara pun maju
+kinerja kabinet
+positive
+$T$ selamat untuk jajaran kabinet merah putih semoga dapat menjalankan visi misi dan ayo kita demi indonesia maju
+kinerja kabinet
+positive
+$T$ bismillah staf kabinet merah putih
+kinerja kabinet
+negative
+$T$ kabinet merah putih mendorong inovasi pendidikan dengan meningkatkan akses teknologi di sekolahsekolah
+kinerja kabinet
+positive
+$T$ retreat kabinet merah putih
+kinerja kabinet
+negative
+$T$ bikin malu kabinet merah putih aja tuh si haikal
+kinerja kabinet
+negative
+$T$ kabinet merah putih memperkuat potensi perdesaan melalui pengembangan ekonomi lokal
+kinerja kabinet
+positive
+$T$ kabinet merah putih mendorong pembangunan yang berorientasi pada pengurangan ketimpangan sosial
+kinerja kabinet
+positive
+$T$ kabinet merah putih menunjukkan perhatian besar pada kesejahteraan tenaga kesehatan
+kinerja kabinet
+positive
+$T$ kami percaya kabinet merah putih memperhatikan keadilan ekonomi bagi rakyat
+kinerja kabinet
+positive
+$T$ kabinet merah putih memperkokoh kemandirian energi dengan memanfaatkan sumber daya alam dalam negeri
+kinerja kabinet
+positive
+$T$ kami optimis kabinet merah putih akan mendukung pembangunan fasilitas kesehatan di desadesa
+kinerja kabinet
+positive
+$T$ kabinet merah putih menjadi merah pucat
+kinerja kabinet
+negative
+$T$ bg tau gak kabinet merah putih menyala dlu membara dulu nanti baru netral putih
+kinerja kabinet
+negative
+$T$ kabinet merah putih memfokuskan pada pengembangan teknologi hijau dalam sektor energi
+kinerja kabinet
+positive
+$T$ bersihbersih dari x menteri indonesia maju dalam periode kabinet merah putih
+figur mentri
+negative
+$T$ semoga sehat selalu pak presiden dan pak kapolri jendral saya yakin kabinet merah putih siap wujudkan indonesia adil amp
+kinerja kabinet
+positive
+$T$ kabinet merah putih berfokus pada pengembangan sektor pertanian yang modern dan berkelanjutan
+kinerja kabinet
+positive
+$T$ dan orang ini di kabinet merah putih baru aja diangkat jadi wakil menteri luar negeri keren sekali pak tata sedangkan ku masih belum kesampean juga jadi diplomat
+figur mentri
+positive
+$T$ dan orang ini di kabinet merah putih baru aja diangkat jadi wakil menteri luar negeri keren sekali pak tata sedangkan ku masih belum kesampean juga jadi diplomat
+struktur kabinet
+positive
+$T$ ada contoh di kabinet merah putih
+kinerja kabinet
+positive
+$T$ di bawah presiden prabowo kabinet merah putih mempercepat modernisasi pertanian dengan teknologi canggih
+kinerja kabinet
+positive
+$T$ kabinet merah putih mempercepat implementasi teknologi energi bersih untuk mengurangi ketergantungan pada energi fosil
+kinerja kabinet
+positive
+$T$ kabinet merah putih berkomitmen memperluas akses modal bagi umkm untuk memperkuat perekonomian lokal
+kinerja kabinet
+positive
+$T$ keren banget nih kabinet merah putih kerjanya nyata banyak gebrakan buat rakyat maju terus pak prabowo
+kinerja kabinet
+positive
+$T$ kabinet merah putih memberikan prioritas pada pemberdayaan perempuan di berbagai sektor
+kinerja kabinet
+positive
+$T$ semakin kesini semakin kesana ternayata kabinetmerah putih senang blumder juga seperti kabinet jokowi ganti aja dah yg bikin kisruh negeri
+kinerja kabinet
+negative
+$T$ terima kasih kabinet merah putih atas perhatian pada masalah sosial rakyat berterima kasih
+kinerja kabinet
+positive
+$T$ kabinet merah putih serius dalam meningkatkan kualitas pendidikan semua anak berhak dapat ilmu
+kinerja kabinet
+positive
+$T$ kabinet merah putih mendorong peningkatan daya saing umkm di pasar internasional
+kinerja kabinet
+positive
+$T$ kabinet merah putih harus mengutamakan keadilan
+kinerja kabinet
+positive
+$T$ kabinet merah putih memperkuat kebijakan penegakan hukum yang transparan dan berkeadilan bagi seluruh rakyat indonesia
+kinerja kabinet
+positive
+$T$ kabinet merah putih berkomitmen untuk meningkatkan kesejahteraan sosial
+kinerja kabinet
+positive
+$T$ bahlil lahadalia ungkap menteri partai golkar terbanyak di kabinet merah putih prabowo
+figur mentri
+neutral
+$T$ terima kasih kabinet merah putih pertumbuhan ekonomi indonesia terjaga stabil
+kinerja kabinet
+positive
+$T$ kami mendukung penuh langkah kabinet merah putih dalam menjaga keadilan sosial
+kinerja kabinet
+positive
+$T$ salut sama kabinet merah putih yang ngasih perhatian ke difabel semakin inklusif
+kinerja kabinet
+positive
+$T$ presiden prabowo telah berkomitmen untuk fokus mengentaskan kemiskinan menekan angka pengangguran melalui arahan jelas dan kebijakan yang terukur bagi para di kabinet merah putih
+program kerja
+positive
+$T$ kalo yang kayak begini aja bisa di kriminalisasi sama pemerintah karena dia nggak sejalan sama pemerintah terus menteri yang problematik di kabinet merah putih kemaren itu gadapet perlakuan yang sama gitu yang jelas kriminal dibiarin aja
+figur mentri
+negative
+$T$ kabinet merah putih memprioritaskan keseimbangan antara pembangunan ekonomi dan kelestarian lingkungan
+kinerja kabinet
+positive
+$T$ hybe nih kyknya sama kabinet merah putih setannya ya
+kinerja kabinet
+positive
+$T$ kinerja kabinet merah putih top banget bikin indonesia makin solid dari berbagai sisi semoga terus sukses
+kinerja kabinet
+positive
+$T$ kabinet merah putih berkomitmen memperkuat stabilitas ekonomi dengan kebijakan yang mendukung keberlanjutan fiskal
+kinerja kabinet
+positive
+$T$ anggota kabinet merah putih mayoritas kpruptor
+kinerja kabinet
+negative
+$T$ selamat dan suksess kabinet merah putih
+kinerja kabinet
+positive
+$T$ gak nyangka pertanian kita makin maju hatur nuhun kabinet merah putih
+kinerja kabinet
+negative
+$T$ presiden prabowo subianto membentuk kabinet merah putih yang berisi wakil partai politik pendukung dan kepanjangan tangan pengusaha yang menyokongnya dalam pemilihan presiden
+struktur kabinet
+neutral
+$T$ desak saja rakyat untuk usir dia dari kabinet merah putih malulah kita sebagai wni bawa nama merah putih tapi aksinya merah nano nano
+kinerja kabinet
+negative
+$T$ di bawah presiden prabowo kabinet merah putih memastikan program ketahanan pangan yang berkelanjutan
+program kerja
+positive
+$T$ kabinet merah putih mempercepat program pendidikan karakter untuk membentuk generasi yang berintegritas
+kinerja kabinet
+positive
+$T$ kabinet merah putih memprioritaskan pembangunan desa dan daerah tertinggal
+kinerja kabinet
+negative
+$T$ kabinet merah putih berhasil menciptakan ketahanan ekonomi yang kuat di tengah tantangan global
+kinerja kabinet
+positive
+$T$ kabinet merah putih mengedepankan efisiensi energi dalam setiap proyek pembangunan
+kinerja kabinet
+positive
+$T$ kabinet merah putih memperkuat upaya diplomasi ekonomi untuk mendukung investasi asing di sektor strategis
+kinerja kabinet
+positive
+$T$ kabinet merah putih kerja solid banget makin terasa dampaknya di daerah
+kinerja kabinet
+positive
+$T$ cc kabinet menteri merah putih
+kinerja kabinet
+negative
+$T$ linimasa hari kerja kabinet merah putih prabowogibran
+kinerja kabinet
+positive
+$T$ sejalan dengan hal itu presiden prabowo telah berkomitmen untuk fokus mengentaskan kemiskinan menekan angka pengangguran melalui arahan jelas dan kebijakan yang terukur bagi para di kabinet merah putih serta mengajak seluruh elemen masyarakat untuk melangkah bersama
+program kerja
+positive
+$T$ kabinet merah putih harus fokus pada keadilan sosial
+kinerja kabinet
+positive
+$T$ di bawah presiden prabowo kabinet merah putih mendukung industri kreatif sebagai pilar pertumbuhan ekonomi baru
+kinerja kabinet
+positive
+$T$ kabinet merah putih strategi prabowo dengan sahabat seperjuangan di posisi kunci
+kinerja kabinet
+negative
+$T$ pandawa lima mirip kabinet merah putih
+kinerja kabinet
+negative
+$T$ program hari menteri di kabinet merah putih
+program kerja
+positive
+$T$ prabowo gibran prabowogibran kabinet merah putih
+kinerja kabinet
+positive
+$T$ sepertinya kita punya the real presiden tinggal nyimak kebijakan kabinet merah putih
+struktur kabinet
+negative
+$T$ kabinet merah putih bawa pulang semangat baru dari magelang
+kinerja kabinet
+positive
+$T$ kabinet merah putih memfokuskan pembangunan infrastruktur yang mempercepat konektivitas antarpulau
+kinerja kabinet
+positive
+$T$ maju terus pak prabowo dan kabinet merah putih indonesia jadi makin maju dengan programprogram hebat
+program kerja
+positive
+$T$ kabinet merah putih dinilai ekonom sebagai bentuk komitmen terhadap pembangunan ekonomi yang berkelanjutan
+kinerja kabinet
+positive
+$T$ kabinet merah putih membangun ekonomi rakyat dengan kebijakan inklusif
+kinerja kabinet
+positive
+$T$ kami yakin kabinet merah putih akan menjaga keadilan bagi seluruh rakyat
+kinerja kabinet
+positive
+$T$ masih banyak kader lain yang juga punya pikiran seperti nyadan sekarang jadi duri dalam daging nya kabinet merah putih
+kinerja kabinet
+negative
+$T$ saya bersama sejumlah menteri kabinet merah putih memberikan keterangan pers terkait paket kebijakan ekonomi dalam rangka akselerasi pertumbuhan ekonomi tahun di kantor kemenko perekonomian jakarta
+program kerja
+positive
+$T$ para ekonom optimis kabinet merah putih mampu membawa stabilitas ekonomi yang dibutuhkan untuk pembangunan jangka panjang
+kinerja kabinet
+positive
+$T$ meski gemuk kabinet merah putih diyakini tetap mampu bergerak cepat
+kinerja kabinet
+negative
+$T$ kamu di kabinet merah putih kamu aman
+kinerja kabinet
+positive
+$T$ di bawah presiden prabowo kabinet merah putih mempercepat pengembangan energi surya dan angin sebagai bagian dari transisi energi
+kinerja kabinet
+positive
+$T$ kpk sebut baru pejabat di kabinet merah putih yang lapor lhkpn baca di
+figur mentri
+negative
+$T$ seru juga disuru tidur jam malem terus bangun jam subuh uda kaya kabinet merah putih
+kinerja kabinet
+negative
+$T$ kabinet merah putih mendukung penuh inovasi digital di berbagai sektor kehidupan
+kinerja kabinet
+positive
+$T$ kabinet merah putih dengan semangat kebersamaan siap menjalankan visi pemerintahan kedepan guna mewujudkan bangsa yang maju adil dan makmur menuju indonesia emas bersama kita bentuk pilar kemajuan indonesia
+kinerja kabinet
+positive
+$T$ lihat perkembangan infrastruktur sekarang jelas kabinet merah putih punya visi besar buat indonesia
+kinerja kabinet
+positive
+$T$ di bawah presiden prabowo kabinet merah putih memperkuat kebijakan yang mendukung pemberdayaan ekonomi perempuan
+kinerja kabinet
+positive
+$T$ gmni optimistis kabinet merah putih bisa jalankan program prabowogibran
+kinerja kabinet
+negative
+$T$ ekonom optimis kabinet merah putih akan membawa indonesia menuju kemandirian ekonomi di tengah tantangan global
+kinerja kabinet
+positive
+$T$ kabinet merah putih berani mengambil langkah berani untuk masa depan yang lebih baik
+kinerja kabinet
+positive
+$T$ trs kenapa bikin kabinet merahputih
+kinerja kabinet
+negative
+$T$ salut kabinet merah putih fokus banget di lingkungan hidup juga
+kinerja kabinet
+positive
+$T$ gak perduli saya anda ngutang harus bayar prabowoampgibran itu palsu dan kabinet merah putih palsu utang harus di bayar princes leonor sepia sepin dan kemengku menlu nisa sabyan ani tagih utang piutang mereka borgol semua kabinet abal aball meran putih itu terimakasih kpk
+kinerja kabinet
+negative
+$T$ kabinet merah putih memperkuat kebijakan perlindungan hakhak pekerja
+kinerja kabinet
+positive
+$T$ menteri dan pejabat kabinet merah putih wajib lapor lhkpn berikut info lengkap elhkpn
+figur mentri
+positive
+$T$ kabinet merah putihnkri semakin kesulitan membiayai program kerja strategis untuk mensukseskan visi presiden prabowo selama thn kedepan sala satu contoh seperti menteri perumahan rakyat dibawa ini
+program kerja
+negative
+$T$ kabinet merah putih ayo fokus pada kesehatan rakyat
+kinerja kabinet
+negative
+$T$ apakah kabinet merah putih cukup tenaga menghadapi hadangan komplotan mulyono dengan kelengkapan buzzerinfluencer yang telah naik daun
+kinerja kabinet
+negative
+$T$ koruptor nya kumpul semua di kabinet merah putih yang bapak pimpinrakyat menunggu realisasi dari omongan bapak
+kinerja kabinet
+negative
+$T$ kabinet merah putih mendorong investasi di sektor energi terbarukan untuk menciptakan kemandirian energi
+kinerja kabinet
+positive
+$T$ semangat terus kabinet merah putih semoga langkah ini benarbenar berdampak buat kemajuan bangsa
+kinerja kabinet
+positive
+$T$ kabinet merah putih berkomitmen memperkuat ketahanan nasional dengan modernisasi angkatan bersenjata
+kinerja kabinet
+positive
+$T$ kabinet merah putih mengutamakan kedaulatan bangsa dalam setiap kebijakan yang diambil
+kinerja kabinet
+positive
+$T$ kabinet merah putih menciptakan iklim politik yang stabil dan mendukung investasi jangka panjang
+kinerja kabinet
+positive
+$T$ komisi pemberantasan korupsi kpk ungkap baru dari pejabat di kabinet merah putih yang telah melaporkan kekayaan penyelenggaraan negara lhkpn simak berita selengkapnya di
+figur mentri
+negative
+$T$ kebijakan kabinet merah putih memperhatikan jaminan kesehatan seluruh masyarakat
+program kerja
+positive
+$T$ kabinet merah putih bekerja keras demi keadilan sosial bagi seluruh rakyat
+kinerja kabinet
+positive
+$T$ kabinet merah putih benerbener bikin perubahan nyata ga cuma janjijanji
+kinerja kabinet
+positive
+$T$ sukses terus buat kabinet merah putih dalam menjalankan tugas pemerintahan kedepannya semoga indonesia lebih maju lagi aamiin
+kinerja kabinet
+positive
+$T$ di bawah presiden prabowo kabinet merah putih memperkuat sinergi antara pemerintah pusat dan daerah dalam pembangunan nasional
+kinerja kabinet
+positive
+$T$ kabinet merah putih mengutamakan pengembangan wilayah maritim untuk memperkuat kedaulatan laut indonesia
+kinerja kabinet
+positive
+$T$ bukan hanya menteri kabinet merah putih aja yang digembleng tapi oneiro juga
+figur mentri
+positive
+$T$ di bawah presiden prabowo kabinet merah putih memperkuat hubungan internasional untuk memperluas akses pasar global
+kinerja kabinet
+positive
+$T$ kabinet merah putih berhasil menciptakan iklim investasi yang positif
+kinerja kabinet
+positive
+$T$ kabinet merah putih makin kuat
+kinerja kabinet
+positive
+$T$ di bawah presiden prabowo kabinet merah putih memperkuat upaya mitigasi bencana untuk meningkatkan ketahanan nasional
+kinerja kabinet
+positive
+$T$ semoga asta cita kabinet merah putih terwujud dan bisa membawa indonesia semakin maju bersama kita bentuk pilar kemajuan indonesia
+kinerja kabinet
+positive
+$T$ kabinet merah putih berhasil menciptakan stabilitas politik yang kondusif bagi pembangunan nasional
+kinerja kabinet
+positive
+$T$ kabinet merah putih berkomitmen menjaga keanekaragaman hayati melalui kebijakan yang prolingkungan
+kinerja kabinet
+positive
+$T$ di bawah presiden prabowo kabinet merah putih mendukung pelestarian budaya sebagai bagian dari diplomasi kebudayaan indonesia
+kinerja kabinet
+positive
+$T$ sahabat perempuan dan anak kenalan yuk dengan sosok menteri pppa periode pada kabinet merah putih kami yakin dan percaya dibawah kepemimpinan menteri pppa arifatul fauzi yang tangguh ini akan membawa kemajuan terhadap pemberdayaan perempuan dan perlindungan anak
+figur mentri
+positive
+$T$ kabinet merah putih benerbener memikirkan rakyat banyak kebijakan yang bermanfaat
+kinerja kabinet
+positive
+$T$ kabinet merah putih fokus pada perlindungan lingkungan melalui kebijakan yang mendukung keberlanjutan alam
+kinerja kabinet
+positive
+$T$ semangat terus semoga kabinet merah putih mampu melaksanakan asta cita dengan baik menuju indonesia emas mari bentuk pilar kemajuan indonesia
+kinerja kabinet
+positive
+$T$ kabinet merah putih memastikan bahwa program perlindungan sosial menjangkau masyarakat paling rentan
+program kerja
+positive
+$T$ kabinet merah putih
+kinerja kabinet
+positive
+$T$ kabinet merah putih memberikan prioritas pada peningkatan kesejahteraan sosial bagi seluruh lapisan masyarakat
+kinerja kabinet
+positive
+$T$ kabinet merah putih memperjuangkan kesejahteraan nelayan dan petani sebagai tulang punggung bangsa
+kinerja kabinet
+positive
+$T$ kabinet merah putih memastikan bahwa kebijakan pemerintah mendukung kesejahteraan petani dan nelayan
+kinerja kabinet
+positive
+$T$ kabinet merah putih memfasilitasi akses permodalan bagi pengusaha muda yang ingin berinovasi
+kinerja kabinet
+positive
+$T$ kabinet merah putih mendorong pemanfaatan energi terbarukan untuk mengurangi ketergantungan pada bahan bakar fosil
+kinerja kabinet
+positive
+$T$ kabinet merah putih merupakan simbol persatuan dan kepentingan nasional
+kinerja kabinet
+positive
+$T$ kabinet merah putih mendukung pengembangan ekonomi lokal dengan mendorong pertumbuhan industri kreatif berbasis budaya
+kinerja kabinet
+positive
+$T$ kabinet merah putih makin berani mengambil langkah konkret untuk perubahan
+kinerja kabinet
+positive
+$T$ demi menjaga citra dirinya sbg menteri sekaligus nama baik kabinet merah putih dimata publik maruarar sirait shrsnya meminta maaf secara trbuka kpd masyarakat yg blm memiliki rumah sendirijika ia enggan maka tdk salah bagi presiden untuk memberhentikannya
+figur mentri
+positive
+$T$ belum genap satu tahun sudah sebanyak ini gebrakan kabinet merah putih
+kinerja kabinet
+negative
+$T$ retreat kabinet merah putih pakai uang prabowo
+kinerja kabinet
+negative
+$T$ kabinet merah putih mendukung program pelestarian mangrove untuk mencegah abrasi dan melestarikan ekosistem laut
+kinerja kabinet
+positive
+$T$ kabinet merah putih sangat peduli pada keadilan sosial dan pemerataan
+kinerja kabinet
+positive
+$T$ fraksi pkb mpr meminta kabinet merah putih segera bekerja dengan cepat
+kinerja kabinet
+positive
+$T$ ekonomi maritim kita makin berkembang pesat top banget kabinet merah putih
+kinerja kabinet
+positive
+$T$ prabowo biayai sendiri retret kabinet merah putih
+kinerja kabinet
+negative
+$T$ bener itu kabinet merah putih sama udang balonnya bang mursid aja gedean kabinet
+kinerja kabinet
+positive
+$T$ kabinet merah putih berkomitmen mempercepat pengembangan industri bioteknologi untuk meningkatkan daya saing di pasar global
+kinerja kabinet
+positive
+$T$ csispotlight episode kabinet merah putih presiden prabowo memecahkan rekor baru bagi indonesia tercatat menjadi negara dengan jumlah menteri yang paling banyak di dunia dengan jumlah anggota kabinet lantas apa saja implikasi yang perlu diperhatikan tayang
+figur mentri
+positive
+$T$ sprt nya punya bakat yg lama terpendam sprt nya dia jg seorang menteri di kabinet merah putih yg memiliki kemampuanmeski kemen baru tp tak sprt menteri yg lain yg sllu teriak minta tmbh anggaran
+figur mentri
+negative
+$T$ kabinet merah putih mendorong kemandirian industri manufaktur dalam negeri
+kinerja kabinet
+positive
+$T$ selamat pagi semoga sehat selalu kenapa di biarkan hox itu berkeliaran kabinet merah putih itu palsu seharusnya di bubarkan kenapa tidak tegas dalam ambil tindakan seharusnya kpk beroeran penting kh makruf amin sambung hmm
+kinerja kabinet
+negative
+$T$ makin percaya sama pemerintahan sekarang programprogram kabinet merah putih nyata banget hasilnya
+program kerja
+positive
+$T$ semangat untuk kabinet merah putih untuk tugas dan tanggung jawabnya bentuk pilar kemajuan indonesia bisa dimulai dari sini
+kinerja kabinet
+positive
+$T$ kabinet prabowo itu penjilat tengik yg dulu menyerang dan sekarang menjilat akan tiba waktunya di buang sampah yg ngotorin kabinet merah putihpenghianat hanya merusak jalannya pemerintahan
+kinerja kabinet
+negative
+$T$ semangat gotong royong dan soliditas kabinet merah putih makin terasa setelah retreat di akmil magelang dengan dasar ini kita siap meraih visi indonesia maju adil dan makmur mari sukseskan langkah menuju indonesia emas
+kinerja kabinet
+positive
+$T$ menteri dan wakil menteri kabinet merah putih wajib laporkan harta kekayaan ini alasannya
+figur mentri
+negative
+$T$ menilik lagi fokus kabinet merah putih dalam hari kerja
+kinerja kabinet
+negative
+$T$ kabinet merah putih terus mendukung pengembangan umkm sebagai penggerak ekonomi rakyat
+kinerja kabinet
+positive
+$T$ salut buat kabinet merah putih kerja cerdas dan responsif sama kebutuhan rakyat maju terus buat indonesia hebat
+kinerja kabinet
+positive
+$T$ suka kali sama kabinet merah putih skrg gils
+kinerja kabinet
+positive
+$T$ kabinet merah putih memperluas jaringan telekomunikasi untuk mendukung ekonomi digital di seluruh pelosok indonesia
+kinerja kabinet
+positive
+$T$ live kabinet merah putih bulan siap diganti
+kinerja kabinet
+positive
+$T$ meneropong kabinet merah putih prabowo gatot nurmantyo sudah kelihatan ada friksi
+kinerja kabinet
+negative
+$T$ kabinet merah putih mendorong pengembangan sektor maritim sebagai pilar utama perekonomian
+kinerja kabinet
+positive
+$T$ di kabinet merah putih aja banyak koruptor bersihkan dulu disekitar ente baru kejar yang lain
+kinerja kabinet
+negative
+$T$ kabinet merah putih di bawah kepemimpinan presiden prabowo subianto dan wapres gibran rakabuming terdiri dari kementerian negara termasuk di dalamnya kementerian koordinator dapat melihat pengelompokan kementerian berdasarkan kementerian koordinatornya pada
+kinerja kabinet
+neutral
+$T$ daftar kabinet prabowo subiantogibran rakabuming raka nama kabinat prabowogibran kabinet merah putih utas
+kinerja kabinet
+positive
+$T$ resmi susunan lengkap kabinet merah putih kabinet prabowogibran total jumlah menteri a kementerian koordinator kementerian koordinator bidang politik dan keamanan budi gunawan kementerian koordinator bidang hukum ham imigrasi dan pemasyarakatan yusril ihza
+figur mentri
+neutral
+$T$ ada bbrp menteri dan pjbt setingkat menteri di kabinet merah putih yg multitugas antara lain melaksanakan arahan presiden prabowo mengamankan dinasti jokowi mengamankan dan membantu bisnis oligarki sebagai tim sukses fufufafa utk jabatan presiden siapakah dia
+figur mentri
+negative
+$T$ lihatlah kawan presiden kita sibuk transaksi jabatan dalam situasi sangat panik menjelang dirinya lengser di istana dengan cara berbau kolonial utk reshuffle kabinet lagi ï menteri hukum dan ham harus dilengserkan dan diganti dengan pasukan prabowo isu pengambil alihan
+struktur kabinet
+negative
+$T$ di bawah kepemimpinan prabowo subianto kabinet pemerintahan tampil dengan fokus dan visi yang jelas memastikan kebutuhan masyarakat terpenuhi secara nyata dengan pendekatan yang tegas namun kolaboratif prabowo berhasil menghadirkan kabinet yang kompak solid dan siap bekerja
+kinerja kabinet
+positive
+$T$ program makan bergizi gratis sebaiknya dikaji ulang
+program kerja
+positive
+$T$ indonesias free meal program advancing nationwide nutrition and education indonesias free meal program makan bergizi gratis mbg is a national effort to tackle the triple burden of malnutrition and align with the spirit of un sustainable development goals sdgs mbg
+program kerja
+positive
+$T$ program ktp sakti ini simpel komplit njerit kgak muluk dan kgak makan anggaran fantastis tp besar manfaatnya krena bakal menyatukan berbagai program bantuan sosial yang sudah ada seperti subsidi pendidikan program indonesia pintar kartu indonesia pintar
+program kerja
+positive
+$T$ wajah oplas rotratretret kabinet obesitas yandri susanto menteri desa dan pembangunan daerah tertinggal penyalahgunaan fasilitas negara utk urusan pribadi dgn menggunakan kop surat dlm surat nomor ummx perihal undangan haul dan
+figur mentri
+negative
+$T$ menteri koordinator bidang politik dan keamanan pada kabinet merah putih periode kepemimpinan menko jenderal polisi purn prof dr budi gunawan sh phd wakil menteri letnan jenderal tni purn h lodewijk freidrich paulus
+figur mentri
+neutral
+$T$ sobatani mentan amran mengucapkan terima kasih kepada presiden mewakili petani seluruh indonesia atas perhatiannya yang luar biasa terhadap sektor pertanian salah satunya yaitu dengan menaikkan harga pembelian pemerintah hpp terhadap komoditas gabah amp jagung
+struktur kabinet
+positive
+$T$ tukang parkir pak ogah wakil menteri stafsus menteri stafsus wakil menteri stafus stafsusnya wakil menteri asisten stafsus stafsusnya wakil mentari wakis asisten stafsus stafsusnya wakil menteri utusan khusus presiden komisaris independen bumn menteri ham
+figur mentri
+positive
+$T$ tukang parkir pak ogah wakil menteri stafsus menteri stafsus wakil menteri stafus stafsusnya wakil menteri asisten stafsus stafsusnya wakil mentari wakis asisten stafsus stafsusnya wakil menteri utusan khusus presiden komisaris independen bumn menteri ham
+struktur kabinet
+positive
+$T$ menteri kacau waduh menteri desa yandri susanto dilaporkan ke bawaslu loyalis anies kritik pembusukan politikâ¼ï ðð
+figur mentri
+negative
+$T$ mahfud kritik yandri baru jadi menteri desa kerahkan massa hadiri haul ibu
+figur mentri
+negative
+$T$ kabinet merah putih asoi ðð kemenhan jay idzes kemenhub sandy walsh kementrian esdm nathan tjoeaon kemenpora maarten paes kemenkominfodigital jens raven kemenlutkan budiono siregar kemenlu mees hilgers kemendagri hokky caraka selamat bertugas
+kinerja kabinet
+neutral
+$T$ alhamdulillah kemarin saya resmi dilantik sebagai menteri koordinator bidang infrastruktur dan pembangunan kewilayahan segera setelah pelantikan ini saya akan turun langsung ke lapangan guna mempelajari dan memahami lebih dalam tantangan serta masalah yang dihadapi sebagai
+figur mentri
+positive
+$T$ menteri amran copot direktur kementan diduga terima suap rp juta
+figur mentri
+negative
+$T$ para petani di kampung telagasari distrik kurik merauke menyambut baik kehadiran presiden dan menteri pertanian sebagai wujud komitmen pemerintah dalam percepatan swasembada pangan berkelanjutan selengkapnya simak video berikut ya sob
+figur mentri
+positive
+$T$ sobatani menteri pertanian ri menyampaikan komitmen kementerian pertanian untuk menjadi kementerian yang transparan akuntabel dan bersihwujud dari upaya tersebut adalah menjadikan kementerian pertanian yang informatif selama tahun berturut turut cont
+figur mentri
+neutral
+$T$ sobatani pada kamis menteri pertanian memaparkan strategi untuk mencapai swasembada pangan dalam rapat koordinasi nasional pemerintah pusat dan daerah di sentul international convention center sicc sesuai arahan dari presiden ri cont
+figur mentri
+positive
+$T$ kabar gembira bagi para petani di seluruh indonesia pemerintah melalui kementerian koordinator bidang pangan amp kementerian pertanian telah memangkas regulasi yang dinilai memperlambat alur distribusi pupuk bersubsidi dengan adanya kebijakan ini diharapkan petani cont
+figur mentri
+positive
+$T$ di antaranya menteri kehutanan hanif faisol nurofiq menteri perhubungan dudy purwagandhi menteri pekerjaan umum dody hanggodo menteri pertanian amran sulaiman dan wakil menteri kehutanan sulaiman umar
+struktur kabinet
+positive
+$T$ mulailah dgn bersihkan kabinet zulhas kasus alih fungsi hutan imin kasus kardus duren hiariej kasus gratifikasi airlangga kasus migor dito kasus bts yandri kasus undangan pribadi kop menteri bahlil kasus izin tambang budi kasus rekening gendut yusril kasus pasir laut
+kinerja kabinet
+negative
+$T$ selamat amp sukses kepada bapak sebagai wakil menteri pertanian ri di kabinet pemerintahan prabowo subianto amp gibran rakabuming raka semoga amanah dalam membawa pertanian indonesia semakin maju dan sejahtera sebab sejahtera petani sejahtera rakyat indonesia
+figur mentri
+positive
+$T$ haramkan korupsi di bumi garuda ðð pendadaran menteri di lembah tidar oleh presiden prabowo subianto menghentak jiwa nasionalisme kabinet merah putih gilas koruptor menteri perumahan dan kawasan permukiman maruarar sirait gercep meminimalisasi celah korupsi
+figur mentri
+negative
+$T$ pak coba nih lihat kelakuan menteri bapak belum bekerja sudah mau menyalahgunakan wewenangnya sebagai menteri desa apa urusannya surat undangan acara keluarga menggunakan kop dan stempel kementerian dengan haul keluarga
+figur mentri
+negative
+$T$ wamen kabinet menteri dan kecerobohan presiden publik sudah eneg bahkan sejak dia belum menjabat sebagai wamen dia orang yang pintar cari perhatian pintar menjilat dan tidak tahu malu untuk menjilat ludah ketika masih pro jokowi dia menyumpah serapahi prabowo entah
+kinerja kabinet
+negative
+$T$ prabowo pejabat yang tidak mampu melaksanakan tugas lebih baik mundur
+figur mentri
+negative
+$T$ menteri rekomendasi jokowi terbukti jadi beban prabowo
+figur mentri
+negative
+$T$ nah bahkan menteri pun gk punya akses langsung ke prabowo jadi menteri berkomunikasinya lewat menko baru level menko ke prabowo terus ada pula menko dan menteri yg gak harmonis karena perebutan kursi ketum partai katanya kalo dipanggil menko dia gk hadir dan ngirim
+figur mentri
+negative
+$T$ ada yang aneh di kabinet prabowo saat ini bagaimana bisa seorang menteri kkp tidak setuju dengan presidennya padahal perintah presiden jelas cabut pagar laut di tangerang prabowo harus hatihati dengan menteri semacam ini bisa jadi ada perintah dari presiden dari benua
+figur mentri
+negative
+$T$ saat ini yg paling penting prabowo harus pecat menteri termul yg membuat kegaduahan publik menteri keuangan menteri esdm kapolri kejagung menteri judol menteri kesehatan dll harusnya menteri pekok itu wajib dipecat
+figur mentri
+negative
+$T$ dalam pidato hut ke kemerdekaan ri di gedung mprdprdpd ri presiden menyatakan pemerintah tidak akan ragu menindak pelanggar hukum kanwil kemenkum diy
+struktur kabinet
+positive
+$T$ saya berkewajiban menegakkan hukum demi keselamatan bangsa ujar presiden di hadapan para wakil rakyat kanwil kemenkum diy
+struktur kabinet
+neutral
+$T$ prabowo salut menteri kerja di luar perkiraan sekolah rakyat berdiri
+figur mentri
+negative
+$T$ prabowo sri mulyani aparat kl amp dpr agar jalankan kebijakan yg telah dibuat dlm tujuan negara pd uudri berjiwa pancasila amp hilangkan program kebijakan mubazir tidak efesien tidak efektif amp tidak bermaslahat bagi masyarakat indonesia jika ingin dipercaya
+program kerja
+negative
+$T$ presiden prabowo subianto resmi meluncurkan badan pengelola investasi daya anagata nusantara bpi danantara senin pada hari ini senin saya presiden republik indonesia menandatangani uu nomor tahun tentang perubahan ketiga atas uu nomor
+struktur kabinet
+neutral
+$T$ jaman mulyono foya foya nya pake duit ngutang prabs kebagian japo utangnya mulyono plus si wowok sendiri yang milih punya kabinet gendut segala anggaran dipangkas kecuali tni polri dan dpr ditambah menuhin ego dia soal program asbun alias mbg yang ngabisin duit banyak
+kinerja kabinet
+negative
+$T$ menurut saya kualitas menteri kabinet merah putih campur aduk kekuatan menteri berpengalaman seperti sri mulyani mendukung stabilitas dengan pertumbuhan ekonomi di q dan surplus pangan kelemahan ukuran kabinet raksasa picu inefisiensi risiko korupsi dan
+figur mentri
+positive
+$T$ menteri keuangan sri mulyani mengungkapkan arahan presiden prabowo agar investasi indonesia pada mencapai rp triliun demi mendorong pertumbuhan ekonomi
+figur mentri
+neutral
+$T$ tim ekonomi prabowo berisi nama seperti sri mulyani airlangga zulhas apalagi dedengkotnya luhut orang waras tidak akan percaya kebijakan ekonomi mereka akan berpihak pada nasib rakyat berhentilah menipu rakyat broh
+program kerja
+negative
+$T$ presiden prabowo subianto meminta seluruh pihak yang ingin mengabdi kepada bangsa untuk menyampingkan urusan pribadi hal ini disampaikan prabowo di hadapan kader menteri kabinet merah putih hingga kepala daerah yang diusung koalisi indonesia maju kim prabowo menegaskan
+struktur kabinet
+positive
+$T$ ketua harian partai gerindra sufmi dasco ahmad menyebut ada menteri dalam kabinet merah putih yang kurang seirama dengan presiden prabowo subianto
+figur mentri
+negative
+$T$ sejumlah kebijakan menteri yang dianulir presiden prabowo apa saja presiden ri prabowo subianto dalam kapasitasnya sebagai kepala negara tercatat lima kali telah membatalkan kebijakan yang dikeluarkan menterinya kabinet merah putih
+program kerja
+negative
+$T$ presiden prabowo subianto menggelar sidang kabinet paripurna bersama seluruh jajaran menteri kabinet merah putih di ruang sidang kabinet istana kepresidenan jakarta dalam pertemuan yang menandai tiga bulan masa kerja pemerintahannya presiden menyampaikan apresiasi
+struktur kabinet
+positive
+$T$ menteri koordinator bidang perekonomian airlangga hartarto membantah rumor bahwa dirinya akan mundur dari kabinet merah putih presiden prabowo subianto airlangga mengatakan dirinya tetap fokus bekerja seperti biasa dia juga membantah isu menteri keuangan sri mulyani bakal
+figur mentri
+neutral
+$T$ prabowo akan reshuffle kabinet merah putih petinggi gerindra ada menteri kurang seirama
+figur mentri
+negative
+$T$ presiden dan mas wapres seiring sejalan dalam menjalankan kan roda pemerintahan saling melengkapi satu sama lain harmonisasi nampak jelas tergambar baru kali ini terlihat seperti ini roda pemerintahan istilah wong jawa tumbu nemu tutup semoga membawa
+struktur kabinet
+positive
+$T$ presiden prabowo subianto akan menggembleng para menteri kabinet merah putih setelah pelantikan pada beberapa hari lalu ðððð presiden akan membawa para anggota kabinetnya ke akademi militer di lembah gunung tidar magelang selama hari mulai tanggal oktober
+struktur kabinet
+neutral
+$T$ menteri udah wakil menteri udah sekarang mari kita tengok profil kepala badan setingkat menteri yang baru aja dilantik prabowo selasa yok kita cek satusatu narasi daily
+figur mentri
+neutral
+$T$ menteri udah wakil menteri udah sekarang mari kita tengok profil kepala badan setingkat menteri yang baru aja dilantik prabowo selasa yok kita cek satusatu narasi daily
+struktur kabinet
+neutral
+$T$ sebetulnya menteri pendidikan dasar amp menengah dari kabinet merah putih yang berasal dari ormas agama mengetahui agama mana yang sejak lama menghambat proses pendidikan untuk mencerdaskan bangsa bila kita yang memberi tahu akan dituduh melakukan penistaan agama
+figur mentri
+negative
+$T$ joke presiden prabowo di tanwir muhammadiyah kalau saya undang partai untuk koalisi saya minta calon terbaik mereka gak tanyatanya itu muhammadiyah atau bukan tapi sesudah dilantik ada yang bisikbisik itu muhammadiyah pak kata prabowo saat berbicara di tanwir bertempat
+struktur kabinet
+negative
+$T$ prabowo baru hari berkuasa dah menteri blunder menkokumham yusril bilang tragedi bukan pelanggaran ham berat menteri desapdt yandri susanto pake surat kementerian u acara pribadi menham pigai minta anggaran t berlomba dalam blunder
+figur mentri
+negative
+$T$ intruksi prabowo sudah jelas seluruh pejabat jangan foyafoya dulu ke luar negeri hemat perjalanan dinas kalo perlu dipotong utk menghemat anggaran tetapi kementerian perindustrian kemenperin masih ngeyel melawan instruksi presiden dimana harga diri bangsa ini kalo
+figur mentri
+negative
+$T$ prabowo soroti ada studi banding pramuka ke ln jangan mengadaada presiden prabowo meminta pemerintahannya dijalankan secara efisien programprogram yang tak penting tak perlu dijalankan gtgt
+program kerja
+negative
+$T$ pengabaian prabowo terhadap rekam jejak kapabilitas dan kompetensi pada akhirnya harus dibayar mahal kabinet merah putih tak akan pernah optimal bekerja dan citacita prabowo membawa negara ini makin maju kandas
+kinerja kabinet
+negative
+$T$ menterinya miskin kompetensi tidak paham duduk perkara akhirnya nyalahin setan prabowo cepat deh ganti menteri anda baru dua bulan kerjanya kalo gak menjilat ya amburadul awalnya pidato berapi akhirnya padam juga oleh ludah sendiri ada ribuan karyawan sritex yang sempat
+figur mentri
+negative
+$T$ bpk presiden yth bpk pasti paham bhw hanya negara yg menguasai iptek yg bisa maju dan sejahtera utk itulah bung karno mengirim ratusan mhsw ke ln saat baru saja merdeka pak harto mendirikan kementerian riset dan teknologi yg menterinya adalah prof soemitro
+figur mentri
+positive
+$T$ apa kalian pikir presiden orang bodoh lemah tak berdaya dan mudah disetir tukang kayu sarjana bodong no selama hari sejak tanggal oktober saya menikmati kejeniusan presiden memainkan strategi yang pasti disusun sejak tahun yang lalu
+struktur kabinet
+negative
+$T$ menteri keuangan sri mulyani menahan anggaran proyek infrastruktur sebagaimana arahan presiden prabowo subianto kebijakan tersebut diambil karena presiden prabowo fokus pada ketahanan pangan energi maupun air
+figur mentri
+negative
+$T$ nilai tukar rupiah anjlok usai pelantikan menteri prabowo analis sebut karena kabinet gemuk
+kinerja kabinet
+negative
+$T$ hal yg paling gw syukuri dalam susunan kabinet adlh tdk ada nama grace tdk ada nama budiman sudjatmiko tdk ada nama nadiem tdk ada nama yaqut amp tidak ada nama miftah satu kata yg ingin ku ucapkan alhamdullilah
+kinerja kabinet
+positive
+$T$ para menteri juga terafiliasi dengan pengusaha prabowo terangterangan mengakomodasi politik kartel dan oligarki dalam susunan kabinetnya
+figur mentri
+negative
+$T$ mbok klo omonomon itu disaring dulu pak jadi belepotan meralatnya sisi lainnya menteri anda siap bikin aturan amnesty bagi para koruptor anda tidak layak memimpin negeri ini jika faktanya nanti terjadi pemberian amnesty bagi para koruptor
+figur mentri
+negative
+$T$ selamat bekerja para menteri kabinet merah putih masa jabatan semoga amanah dalam mengemban tugas negara yuk kenalan dengan menteri yang baru saja dilantik presiden prabowo subianto siang tadi
+figur mentri
+positive
+$T$ presiden prabowo subianto telah mengumumkan nama kabinetnya untuk pemerintahan prabowo memberi nama kabinet merah putih nama ke menteri dan kepala lembaga setingkat kementerian ini diumumkan pada minggu malam link berita
+struktur kabinet
+neutral
+$T$ presiden prabowo subianto meminta kepada para menteri di kabinet merah putih agar memerintahkan jajarannya tidak terlalu banyak melakukan kunjungan ke luar negeri
+struktur kabinet
+neutral
+$T$ struktur kementerianlembaga pada kabinet merah putih sumber kompas
+figur mentri
+positive
+$T$ menteri wakil menteri orang kabinet merah putih
+figur mentri
+negative
+$T$ ia misalnya mencopot menteri yang tidak mendukung koalisi pemilu yang memenangkan pasangan prabowo subianto dan gibran rakabuming raka anaknya
+figur mentri
+negative
+$T$ dalam sidang kabinet paripurna perdana rabu kemarin presiden memberikan sejumlah arahan kepada para menteri kabinet merah putih presiden meminta jajarannya untuk lebih berani dan tegas dalam memberika pelayanan terbaik untuk rakyat
+struktur kabinet
+neutral
+$T$ presiden mengumumkan nama menteri dan pejabat setingkat menteri serta wakil menteri kabinet merah putih periode pada minggu di istana merdeka jakarta foto humas setkab agg
+struktur kabinet
+neutral
+$T$ kabinet prabowo tanpa gibran lagi berjalan penyusunannya di kediaman pak prabowo subianto presiden ri ke membuktikan kejamnya penghinaan fufu fafa bagi dan harus kita ingat sebagai rakyat indonesia terïc i n t a itulah manusia normal dan sehat yang punya hati dan perasaan
+kinerja kabinet
+negative
+$T$ presiden prabowo subianto mengakui bahwa selama satu bulan resmi dilantik menjadi presiden serta memimpin kabinet merah putih para menteri bekerja dengan kompak layaknya tim sepak bola
+struktur kabinet
+neutral
+$T$ presiden prabowo subianto menugaskan menteri dan wakil menteri di kabinet merah putih untuk turun ke lapangan memastikan kelancaran penyelenggaraan libur natal dan tahun baru mn
+struktur kabinet
+neutral
+$T$ presiden prabowo subianto meminta kepada para menterinya di kabinet merah putih untuk terbebas dari unsur politis dan dendam politik dalam menjalankan pemerintahan yang bersih n
+struktur kabinet
+neutral
+$T$ lengkap susunan kabinet merah putih edisi polpeeps politik ui
+kinerja kabinet
+positive
+$T$ presiden prabowo subianto resmi melantik menteri dan kepala lembaga dalam susunan kabinet merah putih di istana negara jakarta senin ini selengkapnya
+struktur kabinet
+neutral
+$T$ menteri pariwisata yang merupakan menteri terkaya di kabinet prabowo kuliah di luar negeri tapi masih ga punya skill berbicara fluent berbahasa inggris boroboro itu membahas uu pariwisata aja ga ngerti mau sampai kapan negara ini dipimpin oleh orang yg gak capable gini
+figur mentri
+negative
+$T$ ngga ngapain tiba angka kepuasan padahal menterinya banyak yang ngaco mulai dari memakai kop surat kementerian untuk acara keluarga anggaran triliun dari kementerian ham hoax rumah sudah dibangun hingga kkp yang tiba tidak sependapat dengan prabowo soal
+figur mentri
+negative
+$T$ astagfirullah ini beneran bapak menteri pendidikan menteri pendidikan tinggiiiiiiiiiii lagi kok brutaaaaaaaaaaal sih pak pembantu presiden orang nomer yg urus pendidikan generasi muda indonesia pendidikan yg bukan hanya tentang ilmu pengetahuan tapi juga
+figur mentri
+negative
+$T$ menteri pariwisata ini suaminya seorang pebisnis salah satunya bergerak di sektor tambang ia menjabat sebagai wakil ketua tkn prabowogibran pada pilpres lalu
+figur mentri
+neutral
