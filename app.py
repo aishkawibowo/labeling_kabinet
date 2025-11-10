@@ -16,18 +16,19 @@ SHEET_NAME = "Sentimen_Kabinet_Labeling"  # ubah ke nama Google Sheet kamu
 
 @st.cache_resource
 def connect_gsheet():
-    # Gunakan file credential baru
-    CREDS_FILE = "sanguine-air-477810-q8-b4d3d7b3c394.json"
+    # Ambil kredensial dari secrets Streamlit (bukan file JSON lokal)
+    creds_json = st.secrets["gcp_service_account"]
 
-    # Buat objek Credentials langsung dari file
-    creds = Credentials.from_service_account_file(CREDS_FILE, scopes=SCOPE)
+    # Buat objek Credentials dari isi secrets
+    creds = Credentials.from_service_account_info(dict(creds_json), scopes=SCOPE)
 
     # Otorisasi ke Google Sheets
     client = gspread.authorize(creds)
 
-    # Pastikan nama sheet sama
+    # Buka Sheet
     sheet = client.open(SHEET_NAME).sheet1
     return sheet
+
 
 def append_to_gsheet(df_annotations, annotator_name):
     sheet = connect_gsheet()
