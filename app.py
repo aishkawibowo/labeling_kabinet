@@ -13,21 +13,19 @@ ANNOTATOR_NAME = "Bu Jiphie"
 
 SCOPE = ["https://www.googleapis.com/auth/spreadsheets"]
 SHEET_NAME = "Sentimen_Kabinet_Labeling"  # ubah ke nama Google Sheet kamu
-CREDS_FILE = "sanguine-air-477810-q8-oth-anotator.json" 
 
 @st.cache_resource
 def connect_gsheet():
-    # Baca langsung file kredensial JSON
-    with open("sanguine-air-477810-q8-254b06f9bfde.json", "r") as f:
-        creds_json = json.load(f)
+    # Gunakan file credential baru
+    CREDS_FILE = "sanguine-air-477810-q8-b4d3d7b3c394.json"
 
-    # Buat objek Credentials dari isi file
-    creds = Credentials.from_service_account_info(creds_json, scopes=SCOPE)
+    # Buat objek Credentials langsung dari file
+    creds = Credentials.from_service_account_file(CREDS_FILE, scopes=SCOPE)
 
     # Otorisasi ke Google Sheets
     client = gspread.authorize(creds)
 
-    # Pastikan nama sheet sama persis
+    # Pastikan nama sheet sama
     sheet = client.open(SHEET_NAME).sheet1
     return sheet
 
