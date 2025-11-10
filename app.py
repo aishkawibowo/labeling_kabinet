@@ -13,7 +13,7 @@ ANNOTATOR_NAME = "Bu Jiphie"
 
 SCOPE = ["https://www.googleapis.com/auth/spreadsheets"]
 SHEET_NAME = "Sentimen_Kabinet_Labeling"  # ubah ke nama Google Sheet kamu
-CREDS_FILE = "sanguine-air-477810-q8-254b06f9bfde.json"
+CREDS_FILE = Credentials.from_service_account_info(st.secrets["gcp_service_account"], scopes=SCOPE)
 
 @st.cache_resource
 def connect_gsheet():
