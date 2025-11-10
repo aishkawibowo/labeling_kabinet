@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sanguine-air-477810-q8",
+  "private_key_id": "254b06f9bfde7b87254e510ae8d33fa7b81c2712",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDOGjUx0prhF4zW\nkZUNijC7NldcOUZMVZ+e6HEEOcgGIMDGnm1N8O7SLeWg1zRFdIqaR/JWi84nyc/U\noYWYjojHrrZ7ccEv29gtvmCom/D1tSrZJ5xxcTI4snehyxe9GMOskGluRsm4HOI6\nCzyiT7uw5tAVYxtxmW7AUfrQSBQ/XBkBiX4i2HPvVmo++Ur3y7XxrAqelEt1q1DC\ntBHHPXTCeZ4za2mBS/TnxpVFzKRLyuFKQjFAktQESnMkkS/AclXg0UqvvOqi3gEW\nDRcYuR+NGCViQkgpPGDEMJqUcduNWs+O43rBCzwUJNvu0PqxqTAIrwK7SOkMcgM4\nKdRGaB5HAgMBAAECggEAHtNYpW0EcSoejHEVxAKpKzcDde2zD/O2fgPx81nZCuGX\nM526Z2/jqFfpAldtn/3ARTcBjeQ3H0hV502JN7oJxyPgczIeXNQazyysNEuujHFe\nSUBda7IsesJmljJUCJpNmd+3hSDdRsY7J8dKeFRIlDrRYIGEN0dlgyo/wyskrB0L\nTrCZ9oY3HJLHzQnBZeaI8Yol+dWIOSSKHx7b736VpokiaRCX8BR+sQlv84NV2PN6\n29ENx3xDgJrhytnfTlXeHYeDOOueqsqIVqa9iroM5XO4d56v07yNAFGOmdv+DgbA\nBn34qSUXcA1i5HD7mEBgbLWX8QK84x+7GqlddUw08QKBgQD4ADnxTa1ft02GFiVY\nO6mCp1xcp3TibFSQ9TDN/U5w5gGQza0h+THqDzl5sI/G6RfMI3eBi5HYvv95S694\nYPT69+/4Ocl+GFA1FgZf2/wvJrrjXYZWjRMkkpt896/pLBFvf2hNI01fDqP/EcIG\n4vAvxrRKVWv039JsBZDThn0cTQKBgQDUwAU0KWrd0ovii4KOTCUn2Vow+CDEUwV9\n8bzaAVcxRpajCxc1SMhT7w+QJRwGsgI480qDm3XNwIDfDtkysU9gkRWJZlzyqwMj\nQKn+tSYLUEDK1lHsOASm4rG3TPr9I8kw6anl0TLnsxvDy6rsQOhOvMgWnNkXVOE+\nO4R4xEMe4wKBgQDcvHbWTGkwdJrP6g47Rn9OB2CyJ2plzj5G97YE4p1a554lIKwl\nPQQsbHif04NlbDr+O+M2rt+VqAsED1WTM9lZOC2jJuwtC774QS5TTB5eaX6WuLvF\ndbPALa2vwVYVmF+8eg5/+hf3r7RQZ6HnNz7Jh3cZYobAYieMdje9zkq1UQKBgQCp\n6ME/K2TBy4kUYL7fzkhOTvQM792bbYKRVyKwKSntnKZpiE38rCfxgJc5U6nSXxAP\nU55LBTlMHVXOzxj/t0Php30/wpSw6YsT+GzLkvjTSEC2vfunYAW3Eo1ECyLYUGA5\nxCN/+1dgXFbsRBg5nozpdTOHe7SVQaCyBu6BVJ0WaQKBgE0/S/xcsEi2p/Hln2d/\nYay4G5rC5gB35YmJPr0hWjERkGVsNGacH9z34IL35S92FaKYhedHftnkaKD8/U1E\nXiFmEtm1LpmQ7yF2anbSg2+erydurp3ya6Ww7cfoJKeTMothQkMBgpJeuHx9b+HB\nw78jIF9L44TeMAYqd9+IvKbl\n-----END PRIVATE KEY-----\n",
+  "client_email": "streamlit-labeling@sanguine-air-477810-q8.iam.gserviceaccount.com",
+  "client_id": "111912551067578614417",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/streamlit-labeling%40sanguine-air-477810-q8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
