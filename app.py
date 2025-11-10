@@ -277,7 +277,7 @@ st.write("### 📊 Ringkasan Hasil Anotasi")
 
 if st.session_state.annotations:
     df_annotations = pd.DataFrame(st.session_state.annotations)
-    
+
     # Summary statistics
     col1, col2, col3 = st.columns(3)
     with col1:
@@ -287,66 +287,63 @@ if st.session_state.annotations:
     with col3:
         aspects_count = df_annotations['aspek'].nunique()
         st.metric("Aspek Unik", aspects_count)
-    
+
     # Show annotations table
     with st.expander("🔍 Lihat Detail Anotasi"):
         st.dataframe(df_annotations)
-    
-    # Save and Export functionality
-def save_annotations():
-    df_annotations = pd.DataFrame(st.session_state.annotations)
 
-    # === 1. Simpan ke file lokal (backup) ===
-    csv_filename = "annotations.csv"
-    df_annotations.to_csv(csv_filename, index=False)
+    # === Simpan dan ekspor hasil ===
+    def save_annotations():
+        df_annotations = pd.DataFrame(st.session_state.annotations)
 
-    json_filename = "annotations.json"
-    df_annotations.to_json(json_filename, orient='records', indent=2)
+        # 1️⃣ Simpan ke file lokal (backup)
+        csv_filename = "annotations.csv"
+        df_annotations.to_csv(csv_filename, index=False)
 
-    txt_filename = "annotations.txt"
-    with open(txt_filename, 'w', encoding='utf-8') as f:
-        for _, row in df_annotations.iterrows():
-            f.write(f"$T$ {row['tweet']}\n")
-            f.write(f"{row['aspek']}\n")
-            f.write(f"{row['sentimen']}\n")
+        json_filename = "annotations.json"
+        df_annotations.to_json(json_filename, orient='records', indent=2)
 
-    # === 2. Simpan ke Google Sheet (append mode, dengan nama anotator otomatis) ===
-    try:
-        sheet = connect_gsheet()
-        for _, row in df_annotations.iterrows():
-            sheet.append_row([
-                row.get('tweet_id', ''),
-                row.get('tweet', ''),
-                row.get('aspek', ''),
-                row.get('sentimen', ''),
-                ANNOTATOR_NAME,  # << diambil dari variabel global
-                datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-            ])
-        st.success(f"✅ Data berhasil dikirim ke Google Sheet oleh {ANNOTATOR_NAME}!")
-    except Exception as e:
-        st.error(f"⚠️ Gagal menyimpan ke Google Sheet: {e}")
+        txt_filename = "annotations.txt"
+        with open(txt_filename, 'w', encoding='utf-8') as f:
+            for _, row in df_annotations.iterrows():
+                f.write(f"$T$ {row['tweet']}\n")
+                f.write(f"{row['aspek']}\n")
+                f.write(f"{row['sentimen']}\n")
 
-    # === 3. Simpan progress state ===
-    state = {
-        'current_index': st.session_state.current_index,
-        'annotations': st.session_state.annotations,
-        'completed_tweets': list(st.session_state.completed_tweets),
-        'current_aspects': st.session_state.current_aspects
-    }
-    with open('annotation_state.json', 'w') as f:
-        json.dump(state, f)
+        # 2️⃣ Simpan ke Google Sheet (dengan nama anotator otomatis)
+        try:
+            sheet = connect_gsheet()
+            for _, row in df_annotations.iterrows():
+                sheet.append_row([
+                    row.get('tweet_id', ''),
+                    row.get('tweet', ''),
+                    row.get('aspek', ''),
+                    row.get('sentimen', ''),
+                    ANNOTATOR_NAME,
+                    datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                ])
+            st.success(f"✅ Data berhasil dikirim ke Google Sheet oleh {ANNOTATOR_NAME}!")
+        except Exception as e:
+            st.error(f"⚠️ Gagal menyimpan ke Google Sheet: {e}")
 
-    return csv_filename, json_filename, txt_filename
-    # Auto-save when annotations change
-    if st.session_state.annotations:
-        save_annotations()
-    
-    # Manual save button
+        # 3️⃣ Simpan progress state
+        state = {
+            'current_index': st.session_state.current_index,
+            'annotations': st.session_state.annotations,
+            'completed_tweets': list(st.session_state.completed_tweets),
+            'current_aspects': st.session_state.current_aspects
+        }
+        with open('annotation_state.json', 'w') as f:
+            json.dump(state, f)
+
+        return csv_filename, json_filename, txt_filename
+
+    # Tombol simpan manual
     if st.button("💾 Simpan Progress", type="primary"):
         save_annotations()
         st.success("✅ Progress berhasil disimpan!")
-        
-    # Download buttons
+
+    # Tombol download
     col1, col2, col3 = st.columns(3)
     with col1:
         csv_data = df_annotations.to_csv(index=False)
@@ -356,7 +353,7 @@ def save_annotations():
             file_name="annotations.csv",
             mime="text/csv"
         )
-    
+
     with col2:
         json_data = df_annotations.to_json(orient='records', indent=2)
         st.download_button(
@@ -365,23 +362,24 @@ def save_annotations():
             file_name="annotations.json",
             mime="application/json"
         )
-        
+
     with col3:
-        # Generate TXT data without spaces between entries
         txt_data = ""
         for _, row in df_annotations.iterrows():
             txt_data += f"$T$ {row['tweet']}\n"
             txt_data += f"{row['aspek']}\n"
             txt_data += f"{row['sentimen']}\n"
-        
+
         st.download_button(
             label="⬇️ Download TXT",
             data=txt_data,
             file_name="annotations.txt",
             mime="text/plain"
         )
-        else:
-            st.info("👆 Mulai labeling untuk melihat ringkasan hasil")
+
+else:
+    st.info("👆 Mulai labeling untuk melihat ringkasan hasil")
+
 
 # ==== Statistics ====
 if st.session_state.annotations:
