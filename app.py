@@ -1,6 +1,39 @@
 import streamlit as st
 import pandas as pd
 import json
+import gspread
+from google.oauth2.service_account import Credentials
+import datetime
+
+ANNOTATOR_NAME = "Bu Jiphie"
+
+# =============================
+# CONFIGURASI GOOGLE SHEETS
+# =============================
+
+SCOPE = ["https://www.googleapis.com/auth/spreadsheets"]
+SHEET_NAME = "Sentimen_Kabinet_Labeling"  # ubah ke nama Google Sheet kamu
+CREDS_FILE = "sanguine-air-477810-q8-254b06f9bfde.json"
+
+@st.cache_resource
+def connect_gsheet():
+    creds = Credentials.from_service_account_file(CREDS_FILE, scopes=SCOPE)
+    client = gspread.authorize(creds)
+    sheet = client.open(SHEET_NAME).sheet1
+    return sheet
+
+def append_to_gsheet(df_annotations, annotator_name):
+    sheet = connect_gsheet()
+    for _, row in df_annotations.iterrows():
+        sheet.append_row([
+            row.get('tweet_id', ''),
+            row.get('tweet', ''),
+            row.get('aspek', ''),
+            row.get('sentimen', ''),
+            annotator_name,
+            datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        ])
+    st.success("✅ Data berhasil dikirim ke Google Sheet!")
 
 # ==== Konfigurasi Aspek & Sentimen ====
 ASPECTS = [
@@ -260,34 +293,51 @@ if st.session_state.annotations:
         st.dataframe(df_annotations)
     
     # Save and Export functionality
-    def save_annotations():
-        # Save to CSV
-        csv_filename = "annotations.csv"
-        df_annotations.to_csv(csv_filename, index=False)
-        
-        # Save to JSON
-        json_filename = "annotations.json"
-        df_annotations.to_json(json_filename, orient='records', indent=2)
-        
-        # Save to TXT in the specified format (without spaces)
-        txt_filename = "annotations.txt"
-        with open(txt_filename, 'w', encoding='utf-8') as f:
-            for _, row in df_annotations.iterrows():
-                f.write(f"$T$ {row['tweet']}\n")
-                f.write(f"{row['aspek']}\n")
-                f.write(f"{row['sentimen']}\n")
-                
-        # Save progress state
-        state = {
-            'current_index': st.session_state.current_index,
-            'annotations': st.session_state.annotations,
-            'completed_tweets': list(st.session_state.completed_tweets),
-            'current_aspects': st.session_state.current_aspects
-        }
-        with open('annotation_state.json', 'w') as f:
-            json.dump(state, f)
-            
-        return csv_filename, json_filename, txt_filename
+def save_annotations():
+    df_annotations = pd.DataFrame(st.session_state.annotations)
+
+    # === 1. Simpan ke file lokal (backup) ===
+    csv_filename = "annotations.csv"
+    df_annotations.to_csv(csv_filename, index=False)
+
+    json_filename = "annotations.json"
+    df_annotations.to_json(json_filename, orient='records', indent=2)
+
+    txt_filename = "annotations.txt"
+    with open(txt_filename, 'w', encoding='utf-8') as f:
+        for _, row in df_annotations.iterrows():
+            f.write(f"$T$ {row['tweet']}\n")
+            f.write(f"{row['aspek']}\n")
+            f.write(f"{row['sentimen']}\n")
+
+    # === 2. Simpan ke Google Sheet (append mode, dengan nama anotator otomatis) ===
+    try:
+        sheet = connect_gsheet()
+        for _, row in df_annotations.iterrows():
+            sheet.append_row([
+                row.get('tweet_id', ''),
+                row.get('tweet', ''),
+                row.get('aspek', ''),
+                row.get('sentimen', ''),
+                ANNOTATOR_NAME,  # << diambil dari variabel global
+                datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            ])
+        st.success(f"✅ Data berhasil dikirim ke Google Sheet oleh {ANNOTATOR_NAME}!")
+    except Exception as e:
+        st.error(f"⚠️ Gagal menyimpan ke Google Sheet: {e}")
+
+    # === 3. Simpan progress state ===
+    state = {
+        'current_index': st.session_state.current_index,
+        'annotations': st.session_state.annotations,
+        'completed_tweets': list(st.session_state.completed_tweets),
+        'current_aspects': st.session_state.current_aspects
+    }
+    with open('annotation_state.json', 'w') as f:
+        json.dump(state, f)
+
+    return csv_filename, json_filename, txt_filename
+
     
     # Auto-save when annotations change
     if st.session_state.annotations:
