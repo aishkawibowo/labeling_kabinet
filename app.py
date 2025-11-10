@@ -17,8 +17,17 @@ SHEET_NAME = "Sentimen_Kabinet_Labeling"  # ubah ke nama Google Sheet kamu
 
 @st.cache_resource
 def connect_gsheet():
-    creds = Credentials.from_service_account_info(st.secrets["gcp_service_account"], scopes=SCOPE)
+    # Baca langsung file kredensial JSON
+    with open("sanguine-air-477810-q8-254b06f9bfde.json", "r") as f:
+        creds_json = json.load(f)
+
+    # Buat objek Credentials dari isi file
+    creds = Credentials.from_service_account_info(creds_json, scopes=SCOPE)
+
+    # Otorisasi ke Google Sheets
     client = gspread.authorize(creds)
+
+    # Pastikan nama sheet sama persis
     sheet = client.open(SHEET_NAME).sheet1
     return sheet
 
