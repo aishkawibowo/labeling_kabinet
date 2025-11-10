@@ -337,8 +337,6 @@ def save_annotations():
         json.dump(state, f)
 
     return csv_filename, json_filename, txt_filename
-
-    
     # Auto-save when annotations change
     if st.session_state.annotations:
         save_annotations()
@@ -382,8 +380,8 @@ def save_annotations():
             file_name="annotations.txt",
             mime="text/plain"
         )
-else:
-    st.info("👆 Mulai labeling untuk melihat ringkasan hasil")
+        else:
+            st.info("👆 Mulai labeling untuk melihat ringkasan hasil")
 
 # ==== Statistics ====
 if st.session_state.annotations:
