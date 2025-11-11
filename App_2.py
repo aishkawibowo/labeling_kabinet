@@ -12,13 +12,6 @@ ANNOTATOR_NAME = "Pak Anam"
 # CONFIGURASI GOOGLE SHEETS
 # =============================
 
-SCOPE = ["https://www.googleapis.com/auth/spreadsheets", "https://www.googleapis.com/auth/drive"]
-SHEET_NAME = "Sentimen_Kabinet_Labeling"  # ubah ke nama Google Sheet kamu
-try:
-    creds_json = st.secrets["gcp_service_account"]
-    st.write("✅ Secrets terbaca dengan benar.")
-except Exception as e:
-    st.error(f"❌ Secrets error: {e}")
 
 @st.cache_resource
 def connect_gsheet():
