@@ -10,7 +10,10 @@ ANNOTATOR_NAME = "Bu Jiphie"
 # =============================
 # CONFIGURASI GOOGLE SHEETS
 # =============================
-SCOPE = ["https://www.googleapis.com/auth/spreadsheets"]
+SCOPE = [
+    "https://www.googleapis.com/auth/spreadsheets",
+    "https://www.googleapis.com/auth/drive"
+]
 SHEET_NAME = "Sentimen_Kabinet_Labeling" 
 
 @st.cache_resource
