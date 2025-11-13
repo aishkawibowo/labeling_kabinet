@@ -10,6 +10,8 @@ ANNOTATOR_NAME = "Bu Jiphie"
 # =============================
 # CONFIGURASI GOOGLE SHEETS
 # =============================
+SCOPE = ["https://www.googleapis.com/auth/spreadsheets"]
+SHEET_NAME = "Sentimen_Kabinet_Labeling" 
 
 @st.cache_resource
 def connect_gsheet():
