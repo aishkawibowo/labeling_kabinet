@@ -5,7 +5,7 @@ import gspread
 from google.oauth2.service_account import Credentials
 import datetime
 
-ANNOTATOR_NAME = "Bu Jiphie"
+ANNOTATOR_NAME = "Pak Arif"
 
 # =============================
 # CONFIGURASI GOOGLE SHEETS
