@@ -323,8 +323,9 @@ if st.session_state.annotations:
         # 2️⃣ Simpan ke Google Sheet (dengan nama anotator otomatis)
         try:
             sheet = connect_gsheet()
+            rows = []
             for _, row in df_annotations.iterrows():
-                sheet.append_row([
+                rows.append([
                     row.get('tweet_id', ''),
                     row.get('tweet', ''),
                     row.get('aspek', ''),
@@ -332,6 +333,8 @@ if st.session_state.annotations:
                     ANNOTATOR_NAME,
                     datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
                 ])
+
+            sheet.append_rows(rows)  # HANYA 1 REQUEST
             st.success(f"✅ Data berhasil dikirim ke Google Sheet oleh {ANNOTATOR_NAME}!")
         except Exception as e:
             st.error(f"⚠️ Gagal menyimpan ke Google Sheet: {e}")
